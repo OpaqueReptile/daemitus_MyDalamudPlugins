@@ -73,7 +73,7 @@
         "AssemblyVersion": "1.3.0.5",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
         "ImageUrls": [],
@@ -83,6 +83,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661293822"
+        "LastUpdate": "1661453286"
     }
 ]
